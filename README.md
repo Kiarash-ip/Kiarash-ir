@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Kiarash
 - 👀 I’m interested in website development
-- 🌱 I’m currently learning Reactjs
 - 💞️ I’m looking to collaborate on a company
 - 📫 How to reach me : instagram: @kiarashhh_
 
